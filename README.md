@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xaviermontane
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python
-- 📫 xaviermontane3@gmail.com
-<!---
-xaviermontane/xaviermontane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Novice computer scientist.
+
+Looking to pursue a BSC in the University of Waterloo.
+
+<H3>Languages</H3>
+<a href=""><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"</a>
+<a href=""><img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white"</a>
+<a href=""><img src="https://img.shields.io/badge/Bash-557C94?logo=KaliLinux&logoColor=white"</a>
