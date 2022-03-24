@@ -1,6 +1,6 @@
 Novice computer scientist.
 
-Looking to pursue a BSC in the University of Waterloo.
+Looking to pursue a BSC at the University of Waterloo.
 
 <H3>Languages</H3>
 <a href=""><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"</a>
