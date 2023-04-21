@@ -1,6 +1,6 @@
-Novice computer scientist.
+CyberSecurity enthusiast.
 
-Looking to pursue a BCS at the University of Waterloo.
+Currently pursuing a CyberSecurity degree at Ontario Tech University.
 
 <H3>Languages</H3>
 <a href=""><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"</a>
