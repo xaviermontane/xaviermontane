@@ -1,6 +1,6 @@
 CyberSecurity enthusiast.
 
-Currently pursuing a CyberSecurity degree at Ontario Tech University.
+Programming is the art of telling another human being what one wants the computer to do. ― Donald Ervin Knuth
 
 <H3>Languages</H3>
 <a href=""><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"</a>
