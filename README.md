@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm F0RTY!</h1>
 
 <p align="center">Cyber-security enthusiast focused in ethical hacking and CTF's.<br>"Programming is the art of telling another human being what one wants the computer to do." ― <i>Donald E. Knuth</i></p>
-<hr>
+<h1>
 
 <H3>Languages</H3>
 <a href=""><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"</a>
