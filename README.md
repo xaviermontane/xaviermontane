@@ -1,11 +1,21 @@
-<h1 align="center">Hey, I'm F0RTY!</h1>
 
-<p align="center">Cyber-security enthusiast focused in Pentesting and CTF's.<br>"Programming is the art of telling another human being what one wants the computer to do." ― <i>Donald E. Knuth</i></p>
+```
+                         /$$   /$$  /$$$$$$  /$$    /$$ /$$$$$$ /$$$$$$$$ /$$$$$$$        /$$      /$$    
+                        | $$  / $$ /$$__  $$| $$   | $$|_  $$_/| $$_____/| $$__  $$      | $$$    /$$$    
+                        |  $$/ $$/| $$  \ $$| $$   | $$  | $$  | $$      | $$  \ $$      | $$$$  /$$$$    
+                         \  $$$$/ | $$$$$$$$|  $$ / $$/  | $$  | $$$$$   | $$$$$$$/      | $$ $$/$$ $$    
+                          >$$  $$ | $$__  $$ \  $$ $$/   | $$  | $$__/   | $$__  $$      | $$  $$$| $$    
+                         /$$/\  $$| $$  | $$  \  $$$/    | $$  | $$      | $$  \ $$      | $$\  $ | $$    
+                        | $$  \ $$| $$  | $$   \  $/    /$$$$$$| $$$$$$$$| $$  | $$      | $$ \/  | $$ /$$
+                        |__/  |__/|__/  |__/    \_/    |______/|________/|__/  |__/      |__/     |__/|__/
+```
+---
+
+<p align="center">Cybersecurity enthusiast focused in threat analysis, network security, penetration testing, and CTF's.<br>"Programming is the art of telling another human being what one wants the computer to do." ― <i>Donald E. Knuth</i></p>
 <h1>
 
-<H3>Languages</H3>
-<a href=""><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"</a>
-<a href=""><img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white"</a>
-<a href=""><img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"</a>
-<a href=""><img src="https://img.shields.io/badge/Bash-557C94?logo=KaliLinux&logoColor=white"</a>
-<br>
+---
+
+![xaviermontane's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xaviermontane&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+
+![xaviermontane's Stats](https://github-readme-stats.vercel.app/api?username=xaviermontane&theme=prussian&show_icons=true&hide_border=true&count_private=true)
